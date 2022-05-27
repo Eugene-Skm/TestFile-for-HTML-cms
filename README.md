@@ -6,7 +6,7 @@ Pls downlod this zip
 set repository of HTML-CMS
 
 ```
-
+./
 ├ html_cms(dir) 
 │　　├img
 │　　├js
